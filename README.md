@@ -29,7 +29,7 @@ See our pre-print on arXiv: https://arxiv.org/abs/2101.07752
 
 Cite our paper:
 ```
-@misc{pérezfernández2021characterizing,
+@misc{perezfernandez2021characterizing,
       title={Characterizing and Measuring the Similarity of Neural Networks with Persistent Homology}, 
       author={David Pérez-Fernández and Asier Gutiérrez-Fandiño and Jordi Armengol-Estapé and Marta Villegas},
       year={2021},
